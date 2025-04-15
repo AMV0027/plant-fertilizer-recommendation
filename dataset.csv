@@ -1,0 +1,511 @@
+Plant Name,Soil Type,pH Level,Climate,Irrigation Type,Organic Matter %,Fertilizer Type
+Tomato,Loamy,6.5,Tropical,Drip,2.5,NPK 20-20-20
+Potato,Sandy,5.8,Temperate,Sprinkler,1.8,Urea
+Carrot,Sandy Loam,6.0,Temperate,Drip,2.2,Compost
+Cabbage,Loamy,6.2,Tropical,Flood,2.0,DAP
+Onion,Sandy Loam,6.1,Arid,Drip,1.5,NPK 12-32-16
+Spinach,Silty,6.8,Temperate,Sprinkler,3.0,Compost
+Cucumber,Loamy,6.3,Humid,Drip,2.1,NPK 15-15-15
+Chili,Sandy,6.5,Tropical,Drip,2.0,Urea
+Peas,Clay,6.0,Temperate,Flood,2.7,Compost
+Brinjal,Loamy,6.4,Tropical,Drip,1.9,NPK 10-26-26
+Cauliflower,Loamy,6.5,Temperate,Sprinkler,2.4,DAP
+Beetroot,Silty,6.3,Temperate,Drip,2.5,Compost
+Radish,Sandy,5.9,Temperate,Sprinkler,2.0,Urea
+Bitter Gourd,Loamy,6.4,Tropical,Drip,1.8,NPK 17-17-17
+Bottle Gourd,Clay Loam,6.6,Tropical,Flood,2.2,Compost
+Okra,Loamy,6.3,Tropical,Drip,2.3,NPK 20-20-20
+Pumpkin,Sandy Loam,6.2,Humid,Flood,2.1,Urea
+Sweet Corn,Loamy,6.5,Temperate,Sprinkler,2.0,DAP
+Garlic,Sandy,6.0,Arid,Drip,1.7,NPK 12-32-16
+Lettuce,Silty,6.8,Temperate,Sprinkler,2.9,Compost
+Turnip,Sandy Loam,6.1,Temperate,Drip,2.2,Urea
+Zucchini,Loamy,6.5,Temperate,Sprinkler,2.3,NPK 15-15-15
+Green Beans,Loamy,6.0,Tropical,Drip,2.4,Compost
+Mushroom,Compost Rich,6.5,Humid,None,4.0,Organic Mix
+Yam,Clay,5.9,Tropical,Flood,1.9,Urea
+Taro,Clay Loam,6.1,Humid,Flood,2.2,DAP
+Bell Pepper,Loamy,6.4,Tropical,Drip,2.1,NPK 20-20-20
+Celery,Silty,6.7,Temperate,Sprinkler,3.1,Compost
+Leek,Sandy Loam,6.0,Temperate,Drip,2.3,Urea
+Parsley,Loamy,6.3,Temperate,Sprinkler,2.5,Compost
+Mango,Loamy,6.5,Tropical,Drip,2.5,NPK 10-26-26
+Banana,Alluvial,6.8,Humid,Flood,3.0,NPK 19-19-19
+Apple,Loamy,6.2,Temperate,Drip,2.0,DAP
+Guava,Sandy Loam,6.4,Tropical,Drip,2.3,Urea
+Pineapple,Sandy,5.5,Tropical,Drip,2.1,NPK 12-32-16
+Papaya,Loamy,6.7,Tropical,Drip,2.5,NPK 15-15-15
+Orange,Sandy Loam,6.0,Temperate,Drip,2.4,NPK 20-20-20
+Lemon,Loamy,6.1,Tropical,Drip,2.0,Urea
+Grapes,Clay Loam,6.3,Temperate,Drip,2.2,DAP
+Pomegranate,Sandy,6.5,Arid,Drip,1.8,NPK 17-17-17
+Watermelon,Sandy Loam,6.4,Tropical,Drip,2.1,NPK 20-20-20
+Muskmelon,Sandy Loam,6.3,Tropical,Drip,2.0,Urea
+Lychee,Loamy,6.2,Humid,Drip,2.4,NPK 10-26-26
+Custard Apple,Red Loamy,6.5,Tropical,Drip,2.3,Compost
+Sapota,Sandy Loam,6.1,Tropical,Drip,2.0,NPK 12-32-16
+Jackfruit,Loamy,6.3,Tropical,Drip,2.4,Compost
+Avocado,Well Drained,6.5,Tropical,Drip,2.8,NPK 15-15-15
+Fig,Sandy Loam,6.2,Arid,Drip,2.0,Urea
+Pear,Clay Loam,6.3,Temperate,Drip,2.2,DAP
+Peach,Loamy,6.1,Temperate,Drip,2.3,NPK 20-20-20
+Plum,Sandy Loam,6.0,Temperate,Drip,2.1,Compost
+Cherry,Loamy,6.2,Temperate,Drip,2.4,DAP
+Strawberry,Sandy Loam,6.3,Temperate,Drip,2.5,Compost
+Kiwi,Loamy,6.5,Temperate,Drip,2.6,NPK 10-26-26
+Mulberry,Loamy,6.1,Tropical,Drip,2.0,Urea
+Tamarind,Red Loamy,6.4,Tropical,Drip,2.3,NPK 17-17-17
+Jamun,Loamy,6.3,Tropical,Drip,2.4,Compost
+Amla,Clay Loam,6.5,Tropical,Drip,2.2,NPK 20-20-20
+Dates,Sandy,6.8,Arid,Drip,1.7,Urea
+Ber,Sandy Loam,6.2,Arid,Drip,2.0,DAP
+Teak,Well Drained,6.5,Tropical,Rainfed,2.0,NPK 20-20-20
+Neem,Sandy Loam,7.0,Arid,None,1.5,Organic Mix
+Banyan,Loamy,6.8,Tropical,None,2.2,Compost
+Peepal,Loamy,6.7,Tropical,None,2.3,Compost
+Sandalwood,Red Loam,6.5,Tropical,Drip,2.4,NPK 12-32-16
+Eucalyptus,Sandy,6.3,Tropical,Rainfed,2.0,Urea
+Mahogany,Loamy,6.4,Tropical,Rainfed,2.5,DAP
+Sal,Clay,6.0,Tropical,Rainfed,2.3,Compost
+Sheesham,Loamy,6.6,Temperate,Drip,2.1,NPK 17-17-17
+Arjuna,Clay Loam,6.3,Tropical,Rainfed,2.2,Organic Mix
+Ashoka,Loamy,6.5,Tropical,Drip,2.4,DAP
+Bael,Sandy Loam,6.7,Tropical,Rainfed,2.0,Urea
+Gulmohar,Loamy,6.4,Tropical,Rainfed,2.1,Compost
+Karanj,Red Loam,6.2,Tropical,Rainfed,2.3,NPK 15-15-15
+Casuarina,Sandy,6.5,Tropical,Rainfed,2.0,Urea
+Jacaranda,Loamy,6.3,Humid,Rainfed,2.2,Compost
+Palash,Sandy Loam,6.4,Tropical,Rainfed,2.0,Organic Mix
+Silver Oak,Loamy,6.5,Temperate,Drip,2.3,NPK 10-26-26
+Bamboo,Well Drained,6.1,Tropical,Drip,2.5,NPK 20-20-20
+Moringa,Sandy Loam,6.8,Tropical,Drip,2.4,NPK 19-19-19
+Indian Rosewood,Loamy,6.2,Tropical,Rainfed,2.1,DAP
+Flame Tree,Loamy,6.6,Tropical,Rainfed,2.3,Compost
+Bottlebrush,Sandy Loam,6.4,Tropical,Drip,2.0,NPK 12-32-16
+Rain Tree,Clay Loam,6.5,Tropical,Rainfed,2.2,NPK 15-15-15
+Hibiscus Tree,Loamy,6.3,Tropical,Drip,2.5,Compost
+Tamarind Tree,Red Loamy,6.7,Tropical,Drip,2.1,Urea
+Indian Laburnum,Sandy Loam,6.4,Tropical,Drip,2.3,DAP
+Khejri,Sandy,7.2,Arid,Rainfed,1.8,Organic Mix
+Indian Cork Tree,Loamy,6.5,Tropical,Drip,2.4,NPK 10-26-26
+Drumstick Tree,Loamy,6.3,Tropical,Drip,2.6,NPK 20-20-20
+Rose,Loamy,6.5,Temperate,Drip,2.8,NPK 10-26-26
+Marigold,Sandy Loam,6.2,Tropical,Drip,2.4,NPK 15-15-15
+Jasmine,Loamy,6.5,Tropical,Drip,2.5,Compost
+Hibiscus,Clay Loam,6.3,Tropical,Drip,2.6,Urea
+Lily,Well Drained,6.8,Temperate,Drip,2.7,DAP
+Chrysanthemum,Loamy,6.4,Temperate,Drip,2.5,NPK 20-20-20
+Dahlia,Loamy,6.2,Temperate,Drip,2.3,Compost
+Sunflower,Sandy Loam,6.0,Arid,Flood,2.0,Urea
+Zinnia,Sandy Loam,6.5,Tropical,Drip,2.2,NPK 17-17-17
+Petunia,Loamy,6.3,Temperate,Sprinkler,2.5,NPK 12-32-16
+Lavender,Sandy,6.5,Temperate,Drip,2.1,Compost
+Bougainvillea,Sandy,6.7,Tropical,None,1.8,Organic Mix
+Orchid,Bark Based,5.5,Tropical,Drip,3.0,Special Orchid Mix
+Gerbera,Loamy,6.2,Tropical,Drip,2.4,NPK 15-15-15
+Tuberose,Sandy Loam,6.1,Tropical,Drip,2.3,DAP
+Ixora,Loamy,6.4,Tropical,Drip,2.6,Compost
+Calendula,Sandy Loam,6.3,Temperate,Drip,2.2,NPK 20-20-20
+Aster,Loamy,6.5,Temperate,Drip,2.5,Urea
+Cosmos,Sandy,6.0,Tropical,Drip,2.0,Compost
+Balsam,Loamy,6.3,Tropical,Drip,2.4,NPK 10-26-26
+Carnation,Loamy,6.6,Temperate,Drip,2.7,DAP
+Gazania,Sandy Loam,6.2,Tropical,Drip,2.1,NPK 15-15-15
+Snapdragon,Loamy,6.3,Temperate,Drip,2.3,Compost
+Sweet William,Loamy,6.4,Temperate,Drip,2.6,NPK 12-32-16
+Verbena,Sandy Loam,6.1,Temperate,Drip,2.2,Urea
+Begonia,Well Drained,6.5,Tropical,Drip,2.8,Compost
+Salvia,Sandy Loam,6.3,Tropical,Drip,2.0,NPK 20-20-20
+Pansy,Loamy,6.2,Temperate,Drip,2.4,NPK 10-26-26
+Morning Glory,Sandy,6.5,Tropical,Drip,2.1,Urea
+Portulaca,Sandy,6.7,Tropical,None,1.9,Organic Mix
+Basil,Loamy,6.5,Tropical,Drip,2.4,NPK 10-10-10
+Mint,Sandy Loam,6.3,Temperate,Drip,2.6,Compost
+Coriander,Loamy,6.2,Temperate,Drip,2.2,Urea
+Parsley,Loamy,6.3,Temperate,Drip,2.5,NPK 15-15-15
+Thyme,Well Drained,6.5,Temperate,Drip,2.1,Organic Mix
+Oregano,Sandy,6.7,Temperate,Drip,2.0,Compost
+Rosemary,Sandy Loam,6.6,Temperate,Drip,1.9,NPK 12-32-16
+Lemongrass,Loamy,6.5,Tropical,Drip,2.4,DAP
+Fennel,Sandy Loam,6.1,Temperate,Drip,2.3,Urea
+Chives,Loamy,6.2,Temperate,Drip,2.5,NPK 20-20-20
+Dill,Loamy,6.3,Temperate,Drip,2.2,Compost
+Bay Leaf,Clay Loam,6.4,Tropical,Drip,2.6,NPK 10-26-26
+Sage,Well Drained,6.5,Temperate,Drip,2.0,Organic Mix
+Stevia,Sandy Loam,6.5,Tropical,Drip,2.4,NPK 19-19-19
+Curry Leaf,Red Loam,6.6,Tropical,Drip,2.3,Urea
+Aloe Vera,Sandy,7.0,Arid,None,1.8,Compost
+Holy Basil (Tulsi),Loamy,6.4,Tropical,Drip,2.6,NPK 15-15-15
+Chamomile,Well Drained,6.2,Temperate,Drip,2.1,NPK 12-32-16
+Brahmi,Silty,6.3,Tropical,Drip,2.5,Compost
+Ashwagandha,Sandy Loam,6.8,Arid,Drip,2.0,Urea
+Gotu Kola,Silty,6.5,Tropical,Drip,2.4,NPK 10-10-10
+Fenugreek,Loamy,6.2,Tropical,Drip,2.2,DAP
+Kalmegh,Sandy Loam,6.3,Tropical,Drip,2.1,Compost
+Mint (Peppermint),Sandy Loam,6.3,Temperate,Drip,2.5,Urea
+Licorice,Sandy Loam,6.0,Temperate,Drip,2.3,NPK 20-20-20
+Yarrow,Well Drained,6.5,Temperate,Drip,2.1,Organic Mix
+Borage,Loamy,6.4,Temperate,Drip,2.2,NPK 15-15-15
+Valerian,Silty Loam,6.3,Temperate,Drip,2.6,Compost
+Hyssop,Sandy,6.6,Temperate,Drip,2.0,Urea
+Marjoram,Well Drained,6.7,Temperate,Drip,2.1,DAP
+Petra Croton,Loamy,6.5,Tropical,Drip,2.5,NPK 20-20-20
+Gold Dust Croton,Sandy Loam,6.3,Tropical,Drip,2.4,Compost
+Zanzibar Croton,Well Drained,6.4,Tropical,Drip,2.3,NPK 10-10-10
+Mammy Croton,Loamy,6.2,Tropical,Drip,2.5,NPK 15-15-15
+Red Iceton Croton,Sandy Loam,6.5,Tropical,Drip,2.6,Urea
+Oakleaf Croton,Loamy,6.3,Tropical,Drip,2.4,DAP
+Banana Croton,Well Drained,6.6,Tropical,Drip,2.3,NPK 12-32-16
+Bush on Fire Croton,Sandy Loam,6.4,Tropical,Drip,2.5,Compost
+Sunny Star Croton,Loamy,6.5,Tropical,Drip,2.2,NPK 17-17-17
+Andrew Croton,Well Drained,6.3,Tropical,Drip,2.1,NPK 20-20-20
+Iceton Gold Croton,Sandy,6.6,Tropical,Drip,2.4,Urea
+Picasso’s Paintbrush Croton,Loamy,6.5,Tropical,Drip,2.3,NPK 10-26-26
+Spirale Croton,Sandy Loam,6.4,Tropical,Drip,2.5,Compost
+Victoria Gold Bell Croton,Loamy,6.2,Tropical,Drip,2.6,NPK 15-15-15
+Dreadlocks Croton,Well Drained,6.3,Tropical,Drip,2.3,NPK 12-12-17
+Bush Fire Croton,Sandy,6.4,Tropical,Drip,2.2,DAP
+Sloppy Painter Croton,Loamy,6.5,Tropical,Drip,2.4,Urea
+Stoplight Croton,Sandy Loam,6.3,Tropical,Drip,2.1,NPK 20-20-20
+Franklin Croton,Loamy,6.4,Tropical,Drip,2.3,NPK 10-10-10
+Corkscrew Croton,Well Drained,6.6,Tropical,Drip,2.2,Compost
+Lauren’s Rainbow Croton,Sandy,6.3,Tropical,Drip,2.5,NPK 17-17-17
+Picturatum Croton,Loamy,6.4,Tropical,Drip,2.4,DAP
+Mrs Iceton Croton,Sandy Loam,6.2,Tropical,Drip,2.6,Urea
+Superstar Croton,Well Drained,6.5,Tropical,Drip,2.3,NPK 15-15-15
+Eleanor Roosevelt Croton,Loamy,6.3,Tropical,Drip,2.2,Compost
+Norma Croton,Sandy,6.6,Tropical,Drip,2.5,NPK 20-20-20
+Snake Plant,Well Drained,6.5,Tropical,Drip,2.3,Compost
+Peace Lily,Loamy,6.0,Tropical,Drip,2.4,NPK 15-15-15
+Spider Plant,Well Drained,6.3,Temperate,Drip,2.2,NPK 10-26-26
+Pothos,Loamy,6.1,Tropical,Drip,2.3,Organic Mix
+Aloe Vera,Well Drained,7.0,Arid,None,2.0,Compost
+ZZ Plant,Well Drained,6.5,Tropical,Drip,2.4,NPK 20-20-20
+Philodendron,Loamy,6.3,Tropical,Drip,2.5,NPK 10-10-10
+Chinese Evergreen,Well Drained,6.0,Tropical,Drip,2.3,Compost
+Bamboo Palm,Loamy,6.5,Tropical,Drip,2.2,NPK 12-32-16
+Dracaena,Well Drained,6.3,Tropical,Drip,2.6,NPK 15-15-15
+Ficus,Loamy,6.7,Tropical,Drip,2.4,Compost
+Begonia,Well Drained,6.2,Tropical,Drip,2.3,NPK 10-26-26
+Jade Plant,Well Drained,6.5,Tropical,None,2.1,Compost
+English Ivy,Loamy,6.0,Temperate,Drip,2.4,NPK 20-20-20
+Calathea,Loamy,6.4,Tropical,Drip,2.5,Compost
+Golden Pothos,Well Drained,6.2,Tropical,Drip,2.3,NPK 10-10-10
+Ferns (Boston),Silty,6.3,Tropical,Drip,2.4,NPK 12-32-16
+Areca Palm,Loamy,6.5,Tropical,Drip,2.5,Compost
+Dracaena Marginata,Well Drained,6.5,Tropical,Drip,2.3,NPK 10-26-26
+Orchid (Phalaenopsis),Bark Based,5.5,Tropical,Drip,2.7,Special Orchid Mix
+Bromeliad,Well Drained,6.2,Tropical,Drip,2.4,NPK 15-15-15
+Cactus (Indoor),Well Drained,6.5,Arid,None,2.1,Compost
+Prayer Plant,Loamy,6.3,Tropical,Drip,2.5,NPK 17-17-17
+Pilea,Loamy,6.1,Tropical,Drip,2.3,Organic Mix
+Anthurium,Well Drained,6.4,Tropical,Drip,2.2,NPK 20-20-20
+Aloe Vera (Mini),Well Drained,6.8,Arid,None,2.0,Compost
+Moth Orchid,Well Drained,5.5,Tropical,Drip,2.6,Special Orchid Mix
+Bermuda Grass,Sandy Loam,6.5,Tropical,Drip,3.0,NPK 20-20-20
+Zoysia Grass,Loamy,6.7,Temperate,Drip,3.2,NPK 15-15-15
+Fescue Grass,Loamy,6.2,Temperate,Drip,3.5,NPK 10-26-26
+Kentucky Bluegrass,Loamy,6.4,Temperate,Drip,3.1,NPK 12-32-16
+St. Augustine Grass,Sandy Loam,6.8,Tropical,Drip,3.3,NPK 20-20-20
+Buffalo Grass,Loamy,6.5,Tropical,Drip,3.0,Compost
+Bahiagrass,Sandy,6.4,Subtropical,Drip,2.8,NPK 10-10-10
+Centipede Grass,Clay,6.2,Tropical,Drip,3.0,NPK 15-15-15
+Ryegrass,Loamy,6.5,Temperate,Drip,3.2,NPK 12-32-16
+Bermuda Grass (Hybrid),Sandy Loam,6.4,Tropical,Drip,3.1,NPK 10-26-26
+Perennial Ryegrass,Loamy,6.5,Temperate,Drip,3.3,Compost
+Fine Fescue,Sandy Loam,6.2,Temperate,Drip,3.0,NPK 20-20-20
+Creeping Bentgrass,Loamy,6.3,Temperate,Drip,3.2,NPK 15-15-15
+Bahia Grass,Sandy,6.4,Subtropical,Drip,2.8,NPK 12-32-16
+Tall Fescue,Loamy,6.6,Temperate,Drip,3.4,NPK 10-26-26
+TifTuf Bermuda Grass,Sandy Loam,6.5,Tropical,Drip,3.0,NPK 20-20-20
+Carpet Grass,Sandy Loam,6.3,Tropical,Drip,3.0,Compost
+Paspalum Grass,Loamy,6.6,Tropical,Drip,3.1,NPK 15-15-15
+Seashore Paspalum,Loamy,6.7,Coastal,Tidal,3.2,NPK 10-10-10
+Zoysia (Meyer),Loamy,6.5,Tropical,Drip,3.2,NPK 12-32-16
+Buffalo Grass (Native),Sandy Loam,6.4,Arid,Drip,3.0,Compost
+Kikuyu Grass,Sandy Loam,6.5,Tropical,Drip,3.1,NPK 20-20-20
+Dallisgrass,Loamy,6.6,Temperate,Drip,3.3,NPK 15-15-15
+Couch Grass,Well Drained,6.7,Tropical,Drip,3.2,NPK 10-26-26
+Hybrid Ryegrass,Loamy,6.5,Temperate,Drip,3.0,NPK 12-32-16
+Tall Meadow Fescue,Loamy,6.3,Temperate,Drip,3.1,Compost
+Lawn Grass (General),Loamy,6.4,Tropical,Drip,3.0,NPK 20-20-20
+Tulsi (Holy Basil),Loamy,6.5,Tropical,Drip,2.5,Compost
+Ashwagandha,Sandy Loam,7.0,Arid,Drip,2.2,NPK 10-10-10
+Aloe Vera,Sandy,6.8,Arid,None,2.0,Compost
+Neem,Well Drained,6.5,Tropical,None,2.4,NPK 12-32-16
+Brahmi,Clay Loam,6.0,Tropical,Drip,3.0,Organic Mix
+Shatavari,Loamy,6.5,Tropical,Drip,2.6,NPK 15-15-15
+Giloy,Loamy,6.4,Tropical,Drip,2.8,NPK 10-10-10
+Peppermint,Loamy,6.3,Temperate,Drip,2.7,NPK 12-32-16
+Spearmint,Loamy,6.3,Temperate,Drip,2.7,Compost
+Lemongrass,Sandy Loam,6.5,Tropical,Drip,2.5,NPK 10-26-26
+Arjuna Tree,Loamy,6.4,Tropical,None,2.3,NPK 20-20-20
+Haritaki,Sandy Loam,6.6,Tropical,Drip,2.4,NPK 15-15-15
+Baheda,Well Drained,6.7,Tropical,None,2.5,Compost
+Amla (Indian Gooseberry),Loamy,6.4,Tropical,Drip,2.6,NPK 10-26-26
+Guduchi (Tinospora),Loamy,6.3,Tropical,Drip,2.7,NPK 12-32-16
+Kalonji,Sandy Loam,6.5,Temperate,Drip,2.3,Organic Mix
+Senna,Loamy,6.6,Tropical,Drip,2.5,NPK 10-10-10
+Safed Musli,Sandy Loam,7.0,Tropical,Drip,2.2,Compost
+Manjistha,Clay Loam,6.4,Tropical,Drip,2.8,NPK 20-20-20
+Vasaka (Adulsa),Loamy,6.3,Tropical,Drip,2.6,NPK 15-15-15
+Gotu Kola (Mandukaparni),Loamy,6.1,Tropical,Drip,3.0,Organic Mix
+Isabgol (Psyllium),Sandy Loam,7.2,Arid,Drip,2.0,NPK 12-12-17
+Kariyat (Kalmegh),Loamy,6.4,Tropical,Drip,2.6,NPK 10-26-26
+Bitter Gourd (Karela),Loamy,6.2,Tropical,Drip,2.4,NPK 10-10-10
+Turmeric,Sandy Loam,6.5,Tropical,Drip,3.2,NPK 20-20-20
+Ginger,Loamy,6.5,Tropical,Drip,3.0,NPK 15-15-15
+Camphor Tree,Well Drained,6.6,Tropical,None,2.4,NPK 10-30-10
+Eucalyptus,Well Drained,6.5,Tropical,None,2.3,Compost
+Coriander,Loamy,6.2,Temperate,Drip,2.6,NPK 12-32-16
+Ajwain (Carom),Sandy Loam,6.7,Tropical,Drip,2.5,NPK 10-10-10
+Fennel,Loamy,6.4,Temperate,Drip,2.7,Compost
+Fenugreek,Loamy,6.5,Temperate,Drip,2.6,NPK 15-15-15
+Licorice (Mulethi),Loamy,6.4,Tropical,Drip,2.5,NPK 10-26-26
+Black Pepper,Loamy,6.6,Tropical,Drip,2.8,NPK 20-20-20
+Sarpagandha,Sandy Loam,6.5,Tropical,Drip,2.7,Compost
+Anantmool,Loamy,6.4,Tropical,Drip,2.6,NPK 15-15-15
+Kalihari,Sandy Loam,6.3,Tropical,Drip,2.5,NPK 10-30-10
+Nagarmotha,Sandy Loam,6.7,Tropical,Drip,2.6,NPK 10-26-26
+Tagar (Valerian),Loamy,6.5,Temperate,Drip,2.8,Compost
+Bhringraj,Loamy,6.4,Tropical,Drip,2.7,NPK 20-20-20
+Kachnar,Well Drained,6.6,Tropical,Drip,2.5,NPK 15-15-15
+Kutki,Sandy Loam,6.5,Tropical,Drip,2.6,NPK 10-10-10
+Jatamansi,Loamy,6.3,Temperate,Drip,2.8,Compost
+Acorus (Sweet Flag),Clay Loam,6.2,Tropical,Drip,3.0,NPK 12-32-16
+Neem Giloy,Loamy,6.4,Tropical,Drip,2.7,NPK 10-26-26
+Yashtimadhu,Loamy,6.6,Tropical,Drip,2.8,NPK 15-15-15
+Bamboo (Medicinal),Loamy,6.5,Tropical,Drip,2.6,NPK 20-20-20
+Tulbaghia,Well Drained,6.4,Tropical,Drip,2.3,NPK 12-24-12
+Stevia,Loamy,6.5,Subtropical,Drip,2.7,Compost
+Chirayata,Loamy,6.3,Temperate,Drip,2.6,NPK 10-10-10
+Wheat,Loamy,6.5,Temperate,Flood,2.8,NPK 120-60-40
+Rice,Clay Loam,6.0,Tropical,Flood,3.5,NPK 100-50-50
+Maize (Corn),Sandy Loam,6.5,Tropical,Drip,2.6,NPK 120-60-40
+Barley,Loamy,6.2,Temperate,Flood,2.5,NPK 60-40-30
+Oats,Loamy,6.4,Temperate,Flood,2.6,NPK 90-45-30
+Millet (Pearl),Sandy Loam,6.8,Arid,Drip,2.0,NPK 60-40-20
+Sorghum,Sandy Loam,6.5,Tropical,Drip,2.3,NPK 90-45-45
+Finger Millet (Ragi),Loamy,6.0,Tropical,Drip,2.4,NPK 60-30-30
+Foxtail Millet,Sandy Loam,6.5,Tropical,Drip,2.2,NPK 60-40-20
+Little Millet,Sandy Loam,6.4,Tropical,Drip,2.1,NPK 40-30-30
+Pigeon Pea (Tur),Loamy,6.6,Tropical,Drip,2.7,NPK 25-50-0
+Chickpea (Gram),Loamy,6.4,Temperate,Drip,2.6,NPK 20-40-0
+Black Gram (Urad),Loamy,6.5,Tropical,Drip,2.7,NPK 25-50-0
+Green Gram (Moong),Loamy,6.5,Tropical,Drip,2.6,NPK 20-40-0
+Lentil,Sandy Loam,6.3,Temperate,Drip,2.5,NPK 25-50-0
+Pea (Matar),Loamy,6.4,Temperate,Drip,2.5,NPK 40-60-20
+Soybean,Loamy,6.3,Tropical,Drip,2.8,NPK 20-60-40
+Kidney Bean (Rajma),Loamy,6.4,Temperate,Drip,2.6,NPK 25-60-30
+Cowpea (Lobia),Loamy,6.5,Tropical,Drip,2.5,NPK 20-40-20
+Horse Gram,Sandy Loam,6.5,Tropical,Drip,2.3,NPK 20-40-0
+Bengal Gram (Desi Chana),Loamy,6.4,Temperate,Drip,2.7,NPK 20-40-20
+Moth Bean,Sandy Loam,6.6,Arid,Drip,2.2,NPK 20-40-0
+Field Bean,Loamy,6.5,Temperate,Drip,2.6,NPK 25-50-20
+Broad Bean,Loamy,6.3,Temperate,Drip,2.6,NPK 40-60-20
+Teff,Sandy Loam,6.2,Subtropical,Drip,2.3,NPK 60-40-20
+Buckwheat,Loamy,6.5,Temperate,Drip,2.4,NPK 60-60-40
+Quinoa,Sandy Loam,6.4,Temperate,Drip,2.5,NPK 90-60-40
+Amaranth,Sandy Loam,6.3,Tropical,Drip,2.6,NPK 60-40-30
+Proso Millet,Sandy Loam,6.5,Tropical,Drip,2.3,NPK 50-30-30
+Kodo Millet,Loamy,6.4,Tropical,Drip,2.4,NPK 50-40-40
+Barnyard Millet,Sandy Loam,6.3,Tropical,Drip,2.3,NPK 40-30-30
+Black Pepper,Loamy,6.0,Tropical,Drip,3.5,NPK 20-10-10
+Turmeric,Clay Loam,6.2,Tropical,Drip,3.8,NPK 25-15-15
+Cardamom,Loamy,6.0,Tropical,Drip,4.2,NPK 30-20-20
+Ginger,Loamy,6.1,Tropical,Drip,3.9,NPK 25-25-15
+Coriander,Sandy Loam,6.5,Tropical,Drip,2.5,NPK 30-20-10
+Cumin,Sandy,7.2,Arid,Drip,2.2,NPK 40-20-20
+Fennel,Loamy,6.8,Temperate,Drip,2.6,NPK 35-25-15
+Fenugreek,Sandy Loam,6.6,Tropical,Drip,2.4,NPK 30-20-10
+Chili Pepper,Loamy,6.5,Subtropical,Drip,3.0,NPK 40-30-30
+Clove,Loamy,6.0,Tropical,Drip,3.7,NPK 20-10-10
+Nutmeg,Loamy,6.1,Tropical,Drip,3.6,NPK 25-15-15
+Cinnamon,Loamy,6.3,Tropical,Drip,3.4,NPK 30-20-20
+Bay Leaf,Loamy,6.7,Temperate,Drip,2.8,NPK 20-10-10
+Saffron,Sandy Loam,6.8,Temperate,Drip,1.8,NPK 10-5-5
+Mustard,Loamy,6.5,Temperate,Drip,2.5,NPK 35-25-20
+Oregano,Sandy,6.6,Temperate,Drip,2.0,NPK 15-10-10
+Basil,Loamy,6.4,Subtropical,Drip,2.7,NPK 20-20-20
+Rosemary,Sandy,6.5,Temperate,Drip,2.2,NPK 10-10-10
+Thyme,Sandy Loam,6.6,Temperate,Drip,2.3,NPK 10-10-10
+Sage,Loamy,6.5,Temperate,Drip,2.5,NPK 15-15-15
+Mint,Loamy,6.3,Temperate,Drip,3.0,NPK 20-20-10
+Marjoram,Loamy,6.5,Temperate,Drip,2.4,NPK 15-10-10
+Paprika,Loamy,6.4,Subtropical,Drip,2.6,NPK 30-20-20
+Garlic,Loamy,6.5,Temperate,Drip,2.8,NPK 40-30-30
+Onion,Loamy,6.4,Temperate,Drip,2.9,NPK 30-30-30
+Allspice,Loamy,6.3,Tropical,Drip,3.1,NPK 20-20-20
+Tamarind,Sandy Loam,6.5,Tropical,Drip,2.7,NPK 25-15-15
+Curry Leaves,Loamy,6.4,Subtropical,Drip,2.9,NPK 20-10-10
+Lemongrass,Loamy,6.6,Tropical,Drip,2.8,NPK 30-15-15
+Tarragon,Loamy,6.5,Temperate,Drip,2.6,NPK 15-15-15
+Sichuan Pepper,Loamy,6.7,Temperate,Drip,2.7,NPK 25-20-20
+Bottle Gourd,Loamy,6.5,Tropical,Drip,3.5,NPK 20-10-10
+Pumpkin,Loamy,6.8,Tropical,Drip,3.8,NPK 25-15-15
+Cucumber,Loamy,6.2,Tropical,Drip,3.5,NPK 20-10-10
+Sweet Potato,Loamy,6.0,Tropical,Drip,4.0,NPK 15-10-10
+Watermelon,Loamy,6.5,Tropical,Drip,3.7,NPK 30-20-20
+Green Beans,Loamy,6.5,Tropical,Drip,3.2,NPK 25-15-15
+Chayote,Loamy,6.3,Tropical,Drip,4.0,NPK 20-20-20
+Yam,Loamy,6.5,Tropical,Drip,3.8,NPK 25-20-15
+Grape Vine,Loamy,6.5,Temperate,Drip,3.0,NPK 30-10-10
+Kiwi Vine,Loamy,6.5,Temperate,Drip,3.2,NPK 20-10-10
+Passion Fruit,Loamy,6.0,Tropical,Drip,4.0,NPK 25-15-15
+Tomato,Loamy,6.2,Subtropical,Drip,3.4,NPK 20-10-10
+Hops,Loamy,6.5,Temperate,Drip,2.8,NPK 20-20-20
+Peas,Loamy,6.5,Temperate,Drip,3.0,NPK 20-15-15
+Climbing Bean,Loamy,6.5,Tropical,Drip,3.1,NPK 30-20-20
+Morning Glory,Loamy,6.0,Tropical,Drip,2.5,NPK 15-10-10
+Clematis,Loamy,6.0,Temperate,Drip,3.2,NPK 15-10-10
+Wisteria,Loamy,6.5,Temperate,Drip,3.5,NPK 25-20-20
+Bougainvillea,Loamy,6.0,Tropical,Drip,3.0,NPK 20-10-10
+Ivy,Loamy,6.2,Temperate,Drip,2.8,NPK 10-10-10
+Jasmine,Loamy,6.5,Tropical,Drip,3.0,NPK 15-10-10
+Lonicera (Honeysuckle),Loamy,6.5,Temperate,Drip,3.2,NPK 20-20-20
+Trumpet Vine,Loamy,6.5,Temperate,Drip,3.3,NPK 25-15-15
+Creeping Fig,Loamy,6.5,Tropical,Drip,3.0,NPK 15-10-10
+Raspberry,Loamy,6.5,Temperate,Drip,2.9,NPK 20-10-10
+Blackberry,Loamy,6.5,Temperate,Drip,3.1,NPK 20-15-15
+Cleome,Loamy,6.0,Tropical,Drip,2.7,NPK 15-10-10
+Climbing Rose,Loamy,6.5,Temperate,Drip,3.0,NPK 25-15-15
+Mandevilla,Loamy,6.0,Tropical,Drip,3.4,NPK 20-10-10
+Mung Bean,Loamy,6.5,Tropical,Drip,4.0,NPK 15-10-10
+Lupin,Loamy,6.2,Temperate,Surface,4.2,NPK 20-10-10
+Cowpea,Loamy,6.0,Tropical,Drip,3.5,NPK 20-10-10
+Sesbania,Loamy,6.5,Tropical,Drip,5.0,NPK 15-10-10
+Clover,Loamy,6.0,Temperate,Surface,5.5,NPK 10-10-10
+Alfalfa,Loamy,6.5,Temperate,Surface,4.5,NPK 20-15-10
+Vetch,Loamy,6.2,Temperate,Surface,4.0,NPK 10-10-10
+Buckwheat,Loamy,6.0,Tropical,Drip,4.3,NPK 25-15-15
+Ryegrass,Loamy,6.5,Temperate,Surface,3.8,NPK 15-10-10
+Sorghum,Loamy,6.0,Tropical,Drip,4.0,NPK 20-15-15
+Crimson Clover,Loamy,6.2,Temperate,Surface,5.0,NPK 20-10-10
+Phacelia,Loamy,6.5,Tropical,Surface,4.2,NPK 20-15-15
+Sunflower,Loamy,6.0,Tropical,Drip,4.5,NPK 25-20-15
+Radish,Loamy,6.5,Temperate,Surface,3.5,NPK 15-10-10
+Soybean,Loamy,6.0,Tropical,Drip,4.0,NPK 20-10-10
+Mustard,Loamy,6.0,Temperate,Surface,4.5,NPK 20-10-10
+Faba Bean,Loamy,6.5,Temperate,Surface,4.8,NPK 15-10-10
+Triticale,Loamy,6.3,Temperate,Surface,4.2,NPK 15-10-10
+Tare,Loamy,6.5,Temperate,Surface,4.0,NPK 10-10-10
+Indian Mustard,Loamy,6.2,Tropical,Drip,4.5,NPK 20-15-15
+Teff,Loamy,6.0,Tropical,Drip,3.8,NPK 20-10-10
+Cabbage,Loamy,6.5,Temperate,Surface,3.7,NPK 10-10-10
+Oats,Loamy,6.2,Temperate,Surface,4.0,NPK 15-10-10
+Berseem,Loamy,6.5,Tropical,Surface,5.0,NPK 15-15-15
+Chickpea,Loamy,6.0,Tropical,Drip,4.3,NPK 20-10-10
+Barley,Loamy,6.2,Temperate,Surface,3.9,NPK 15-10-10
+Fenugreek,Loamy,6.0,Tropical,Drip,4.1,NPK 10-10-10
+Peas,Loamy,6.5,Temperate,Surface,4.0,NPK 20-10-10
+Aloe Vera,Sandy Loam,6.5,Arid,Drip,2.0,NPK 10-40-10
+Jade Plant,Sandy,6.2,Subtropical,Drip,1.8,NPK 20-20-20
+Echeveria,Sandy,6.0,Arid,Drip,1.5,NPK 10-10-10
+Sedum,Sandy Loam,6.3,Temperate,Drip,1.7,NPK 5-10-10
+Haworthia,Sandy,6.2,Arid,Drip,1.6,NPK 10-15-10
+Agave,Sandy Loam,6.5,Arid,Drip,2.2,NPK 5-10-10
+Crassula ovata,Sandy,6.0,Subtropical,Drip,1.9,NPK 15-15-15
+Kalanchoe,Sandy Loam,6.1,Subtropical,Drip,1.8,NPK 10-20-10
+Sempervivum,Sandy,6.0,Temperate,Drip,1.5,NPK 10-10-10
+Graptopetalum,Sandy,6.3,Arid,Drip,1.6,NPK 10-20-10
+Aeonium,Sandy Loam,6.4,Mediterranean,Drip,1.7,NPK 10-10-10
+Pachyphytum,Sandy,6.2,Arid,Drip,1.4,NPK 10-10-10
+Adromischus,Sandy,6.0,Arid,Drip,1.5,NPK 5-5-5
+Lithops,Sandy,6.5,Arid,Drip,1.3,NPK 2-7-7
+Gasteria,Sandy Loam,6.1,Subtropical,Drip,1.8,NPK 10-15-10
+Stapelia,Sandy,6.3,Arid,Drip,1.5,NPK 5-10-10
+Euphorbia milli,Sandy Loam,6.4,Tropical,Drip,1.7,NPK 10-10-10
+Portulaca,Sandy,6.2,Tropical,Drip,1.9,NPK 15-15-15
+Cotyledon orbiculata,Sandy,6.1,Arid,Drip,1.6,NPK 10-20-10
+Senecio rowleyanus,Sandy,6.2,Arid,Drip,1.5,NPK 5-5-5
+Ceropegia woodii,Sandy Loam,6.3,Subtropical,Drip,1.7,NPK 10-10-10
+Opuntia (Prickly Pear),Sandy,6.5,Arid,Drip,2.0,NPK 5-10-10
+Ferocactus,Sandy,6.2,Arid,Drip,1.4,NPK 5-5-5
+Astrophytum,Sandy,6.0,Arid,Drip,1.3,NPK 10-10-10
+Rebutia,Sandy,6.2,Arid,Drip,1.4,NPK 5-5-5
+Gymnocalycium,Sandy,6.3,Arid,Drip,1.4,NPK 5-5-10
+Parodia,Sandy,6.2,Arid,Drip,1.3,NPK 10-15-10
+Notocactus,Sandy,6.0,Arid,Drip,1.3,NPK 10-10-10
+Mammillaria,Sandy,6.1,Arid,Drip,1.4,NPK 5-5-10
+Water Lily,Loamy,6.0,Tropical,Submerged,10,NPK 20-10-10
+Lotus,Loamy,6.5,Tropical,Submerged,12,NPK 25-15-15
+Water Hyacinth,Loamy,6.0,Tropical,Submerged,15,NPK 30-10-10
+Hornwort,Loamy,6.5,Tropical,Submerged,8,NPK 10-5-5
+Duckweed,Loamy,6.2,Tropical,Submerged,20,NPK 15-10-10
+Water Lettuce,Loamy,6.0,Tropical,Submerged,18,NPK 20-10-10
+Cattail,Loamy,6.3,Tropical,Submerged,25,NPK 25-15-15
+Water Mint,Loamy,6.5,Tropical,Submerged,12,NPK 20-10-10
+Pondweed,Loamy,6.0,Tropical,Submerged,15,NPK 10-10-10
+Anubias,Loamy,6.5,Tropical,Submerged,10,NPK 20-15-15
+Java Fern,Loamy,6.2,Tropical,Submerged,8,NPK 15-10-10
+Cryptocoryne,Loamy,6.5,Tropical,Submerged,12,NPK 20-10-10
+Water Sage,Loamy,6.4,Tropical,Submerged,18,NPK 25-15-15
+Water Grass,Loamy,6.2,Tropical,Submerged,10,NPK 10-10-10
+Saggitaria,Loamy,6.0,Tropical,Submerged,15,NPK 15-10-10
+Lobelia,Loamy,6.5,Tropical,Submerged,12,NPK 20-15-15
+Dwarf Red Lily,Loamy,6.0,Tropical,Submerged,10,NPK 25-10-10
+Egeria,Loamy,6.5,Tropical,Submerged,18,NPK 20-10-10
+Pothos,Loamy,6.0,Tropical,Submerged,14,NPK 15-10-10
+Floating Hearts,Loamy,6.2,Tropical,Submerged,20,NPK 25-10-10
+Water Poppy,Loamy,6.0,Tropical,Submerged,16,NPK 30-15-15
+Maranta (Arrowhead),Loamy,6.3,Tropical,Submerged,12,NPK 20-10-10
+Water Clover,Loamy,6.4,Tropical,Submerged,15,NPK 15-10-10
+Taro,Loamy,6.5,Tropical,Submerged,18,NPK 25-15-15
+Bulrush,Loamy,6.0,Tropical,Submerged,14,NPK 20-15-15
+Water Iris,Loamy,6.5,Tropical,Submerged,20,NPK 30-10-10
+Pickerel Weed,Loamy,6.3,Tropical,Submerged,10,NPK 25-10-10
+Boston Fern,Loamy,6.0,Tropical,Drip,20,NPK 10-10-10
+Maidenhair Fern,Loamy,6.5,Tropical,Drip,18,NPK 15-10-10
+Staghorn Fern,Loamy,6.2,Tropical,Drip,25,NPK 20-15-15
+Bird's Nest Fern,Loamy,6.0,Tropical,Drip,22,NPK 10-15-15
+Asparagus Fern,Loamy,6.0,Subtropical,Drip,20,NPK 15-10-10
+Lady Fern,Loamy,6.5,Temperate,Drip,18,NPK 20-15-15
+Sword Fern,Loamy,6.0,Temperate,Drip,23,NPK 10-10-10
+Cinnamon Fern,Loamy,6.5,Tropical,Drip,20,NPK 25-15-15
+Bracken Fern,Loamy,6.3,Tropical,Drip,25,NPK 20-10-10
+Button Fern,Loamy,6.5,Tropical,Drip,20,NPK 15-10-10
+Royal Fern,Loamy,6.2,Tropical,Drip,18,NPK 10-15-15
+Maidenhair Spleenwort,Loamy,6.3,Tropical,Drip,19,NPK 20-15-15
+Kangaroo Paw Fern,Loamy,6.0,Tropical,Drip,22,NPK 20-10-10
+Holly Fern,Loamy,6.5,Tropical,Drip,18,NPK 15-10-10
+Japanese Painted Fern,Loamy,6.0,Temperate,Drip,17,NPK 10-10-10
+Boston Sword Fern,Loamy,6.5,Temperate,Drip,20,NPK 15-10-10
+Tree Fern,Loamy,6.0,Tropical,Drip,20,NPK 25-20-15
+Water Fern,Loamy,6.3,Tropical,Drip,25,NPK 20-15-15
+Adiantum Fern,Loamy,6.2,Tropical,Drip,18,NPK 10-15-15
+Bird's Foot Fern,Loamy,6.0,Tropical,Drip,19,NPK 15-10-10
+Hart's Tongue Fern,Loamy,6.5,Temperate,Drip,20,NPK 20-10-10
+Lemon Button Fern,Loamy,6.3,Tropical,Drip,17,NPK 15-10-10
+Resurrection Fern,Loamy,6.0,Tropical,Drip,22,NPK 10-15-15
+Christmas Fern,Loamy,6.5,Temperate,Drip,21,NPK 20-10-10
+Western Sword Fern,Loamy,6.2,Temperate,Drip,20,NPK 15-10-10
+Harts Tongue Fern,Loamy,6.5,Tropical,Drip,20,NPK 10-15-15
+Snake Plant,Well-drained Loamy,6.5,Subtropical,Drip,2.5,NPK 10-10-10
+Peace Lily,Loamy,6.2,Tropical,Drip,3.5,NPK 20-10-10
+Spider Plant,Loamy,6.5,Temperate,Drip,2.8,NPK 15-10-10
+ZZ Plant,Sandy Loam,6.0,Tropical,Drip,2.0,NPK 10-10-10
+Areca Palm,Loamy,6.3,Tropical,Drip,3.0,NPK 20-10-10
+Pothos,Loamy,6.1,Tropical,Drip,3.2,NPK 15-10-10
+Rubber Plant,Loamy,6.5,Tropical,Drip,3.0,NPK 20-20-20
+Fiddle Leaf Fig,Loamy,6.3,Tropical,Drip,3.5,NPK 20-10-10
+Chinese Evergreen,Loamy,6.4,Tropical,Drip,3.2,NPK 10-10-10
+Dracaena,Well-drained Loamy,6.3,Tropical,Drip,2.7,NPK 10-15-10
+Aloe Vera,Sandy Loam,6.5,Arid,Drip,2.0,NPK 10-40-10
+Dieffenbachia,Loamy,6.5,Tropical,Drip,3.3,NPK 20-20-20
+Philodendron,Loamy,6.2,Tropical,Drip,3.4,NPK 20-10-10
+Calathea,Loamy,6.0,Tropical,Drip,3.5,NPK 15-10-15
+Bamboo Palm,Loamy,6.5,Tropical,Drip,3.0,NPK 15-5-10
+Monstera,Loamy,6.4,Tropical,Drip,3.5,NPK 20-10-10
+Anthurium,Loamy,6.0,Tropical,Drip,3.2,NPK 15-10-10
+Croton,Loamy,6.3,Tropical,Drip,3.1,NPK 20-10-10
+Bird of Paradise,Loamy,6.5,Tropical,Drip,3.5,NPK 20-10-10
+Oxalis,Loamy,6.2,Temperate,Drip,2.9,NPK 10-10-10
+Prayer Plant,Loamy,6.0,Tropical,Drip,3.2,NPK 15-10-10
+Peperomia,Loamy,6.4,Tropical,Drip,2.8,NPK 10-10-10
+Kalanchoe,Sandy Loam,6.1,Subtropical,Drip,2.5,NPK 10-10-10
+Begonia,Loamy,6.3,Subtropical,Drip,3.1,NPK 15-10-15
+Coleus,Loamy,6.2,Tropical,Drip,2.9,NPK 20-20-20
+Stromanthe,Loamy,6.1,Tropical,Drip,3.0,NPK 10-10-10
+Aglaonema,Loamy,6.5,Tropical,Drip,3.3,NPK 15-10-10
+Schefflera,Loamy,6.2,Tropical,Drip,3.0,NPK 20-10-10
+Jade Plant,Sandy Loam,6.2,Subtropical,Drip,2.0,NPK 20-20-20
